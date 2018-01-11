@@ -9,6 +9,7 @@
   "author": "zhengx666",
   "license": "MIT",
   "dependencies": {
+    "commander": "^2.12.2",
     "express": "^4.16.2",
     "swagger-jsdoc": "^1.9.7"
   }
